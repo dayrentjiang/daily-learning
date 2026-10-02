@@ -13,7 +13,9 @@ This is an instruction package. Static validation cannot establish how every mod
 | Source-based example in a non-hotel subject | Python sample uses three inspected official documentation sections; three code examples and exercise solution executed successfully |
 | Sample PDF | Two pages generated, rendered and visually inspected; extracted text and three source links checked |
 | Supadata OAuth connection and native retrieval | Not tested; no connected Supadata tool in this build session |
-| Public GitHub link bootstrap | Pending publication and public-file retrieval check; fresh-account onboarding remains untested |
+| GitHub publication | Public repository at https://github.com/dayrentjiang/daily-learning; default branch main |
+| Public setup files | Unauthenticated HTTP retrieval of README.md, START_HERE.md and DAILY_LEARNING.md succeeded and matched local bytes |
+| AI browser retrieval | This session's web browsing tool returned a cache miss for the new repository and raw file URLs; direct HTTP succeeded. The paste/attach fallback is documented. |
 | Fresh-account setup across different AI apps | Not tested |
 | Unattended scheduled PDF delivery and memory continuity | Not tested; no schedule created by this build |
 

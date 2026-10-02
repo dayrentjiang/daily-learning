@@ -12,6 +12,8 @@ Paste this message into a new conversation with an AI assistant that can open li
 
 If the assistant cannot explore the repository, open [the complete single-file prompt](DAILY_LEARNING.md), copy its contents into the conversation, or attach that file. A model without web access can use the instructions, but cannot perform live research.
 
+Direct file links: [setup entry point](https://raw.githubusercontent.com/dayrentjiang/daily-learning/main/START_HERE.md) and [complete prompt](https://raw.githubusercontent.com/dayrentjiang/daily-learning/main/DAILY_LEARNING.md). If the AI's browser returns a cache miss or cannot fetch the new repo, paste or attach the complete prompt rather than repeatedly retrying the repository URL.
+
 No terminal is required for the standard setup. If your app supports installing a skill folder, use [skills/daily-learning](skills/daily-learning/SKILL.md). This repo is not yet a published plugin or an automatically installed GitHub integration.
 
 ## What you get
